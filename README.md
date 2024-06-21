@@ -1,9 +1,8 @@
 # Banking Management System
 
-## Created By - SHUBHAM KUMAR
+## Created By - Rahul
 
 ## Sparks Foundation Internship Project : Basic Banking System 
-# https://spark-bank-system.herokuapp.com/
 
 A Web Application used to transfer money between multiple users.  
 
